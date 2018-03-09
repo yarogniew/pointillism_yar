@@ -12,7 +12,7 @@ function setup() {
   song.play();
   createCanvas(420, 578);
   smallPoint = 4;
-  largePoint = 20;
+  largePoint = 40;
   imageMode(CENTER);
   noStroke();
   background(255);
